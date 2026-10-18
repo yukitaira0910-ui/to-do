@@ -2,7 +2,7 @@ name = "flow-liquid-tasks"
 main = "worker.js"
 compatibility_date = "2026-10-18"
 assets = { directory = "." }
-[[ai]]
+[ai]
 binding = "AI"
 [[d1_databases]]
 binding = "DB"
